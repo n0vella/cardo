@@ -7,7 +7,7 @@
 
 ## Overview
 
-Cardo is a podcast client for desktop, inspired by Android's [Antennapod](https://antennapod.org/). Cardo can be synchonized with Antennapod and other apps using [Nextcloud Gppoder](https://github.com/thrillfall/nextcloud-gpodder/) and [Gpodder/Opodsync](https://github.com/kd2org/opodsync).
+Cardo is a podcast client for desktop, inspired by Android's [Antennapod](https://antennapod.org/). Cardo can be synchonized with Antennapod and other apps using [Nextcloud Gppoder](https://github.com/thrillfall/nextcloud-gpodder/), [Gpodder/Opodsync](https://github.com/kd2org/opodsync), and [goPodder](https://github.com/cbrgm/gopodder).
 
 ![1](assets/readme/1.png)
 
@@ -30,6 +30,7 @@ Cardo is a podcast client for desktop, inspired by Android's [Antennapod](https:
 - [x] Download episodes to listen them offline
 - [x] Add podcast from feed url
 - [x] Synchronization using [Opodsync](https://github.com/kd2org/opodsync)
+- [x] Synchronization using [goPodder](https://github.com/cbrgm/gopodder)
 - [ ] Keep your favorite episodes
 - [ ] Audio manipulation, speed, silence skip & normalization
 - [ ] Add podcasts from sources other than i-tunes
