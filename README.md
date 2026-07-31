@@ -152,7 +152,7 @@ For help modifying the setup with VS Code, follow [the instructions in the Tauri
       <td style="color: green;">94%</td>
     </tr>
      <tr>
-      <td>cn</td>
+      <td>zh</td>
       <td style="color: yellow;">89%</td>
     </tr>
      <tr>
